@@ -1,4 +1,4 @@
-var url = "/res/finalquiz.xml";
+var url = "res/finalquiz.xml";
 let id = 1;
 let answers = [];
 let QnA, validAnswr;
